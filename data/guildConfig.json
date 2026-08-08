@@ -23,5 +23,30 @@
       "rapAlert": "1525491918455177276",
       "existsAlert": "1525491954006102016"
     }
+  },
+  "1517031232050036756": {
+    "clanTracker": {
+      "clanName": "",
+      "channelId": ""
+    },
+    "clanInactivity": {
+      "channelId": "",
+      "enabled": false
+    },
+    "hugeChannelId": "",
+    "titanicChannelId": "",
+    "gargantuanChannelId": "",
+    "rapAlertChannelId": "",
+    "existsAlertChannelId": "",
+    "clanTop10ChannelId": "",
+    "leagueTop10ChannelId": "",
+    "newItemChannelId": "",
+    "gameUpdateChannelId": "",
+    "pingRoles": {
+      "newItem": "",
+      "gameUpdate": "",
+      "rapAlert": "",
+      "existsAlert": ""
+    }
   }
 }
